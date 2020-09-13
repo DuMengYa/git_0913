@@ -1,0 +1,4 @@
+# 忽略 text 文本
+text
+#忽略test 文件夹
+test/
